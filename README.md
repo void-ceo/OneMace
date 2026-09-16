@@ -21,7 +21,7 @@ Need a **server** for a nice deal or just want to **support me**? ❤️
 ## Support fork: 
 
 [![Boosty]([https://img.shields.io/badge/ScalaCube-50%25%20Off%201st%20Month-orange?style=plastic](https://img.shields.io/badge/Boosty-Support%20Me-brightgreen?style=plastic)
-)](boosty.to/fallenblade)
+)](https://boosty.to/fallenblade)
 
 Support mattwhyy
 [![ScalaCube 50 PERCENT OFF FOR THE FIRST MONTH](https://img.shields.io/badge/ScalaCube-50%25%20Off%201st%20Month-orange?style=plastic
