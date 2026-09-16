@@ -1,7 +1,7 @@
 # no OneMace.
 # FiveMace.
 
-Original
+## Original
 [![Download on Modrinth](https://img.shields.io/modrinth/dt/onemace?style=plastic&logo=modrinth&label=Download%20on%20Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fmusichud)](https://modrinth.com/plugin/onemace)
 [![Download on GitHub](https://img.shields.io/github/downloads/mattwhyy/OneMace/total?style=plastic&logo=github&label=Download%20on%20GitHub)](https://github.com/mattwhyy/OneMace/releases)
 
