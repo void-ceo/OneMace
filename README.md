@@ -1,7 +1,7 @@
 # no OneMace.
 # FiveMace.
 
-
+Original
 [![Download on Modrinth](https://img.shields.io/modrinth/dt/onemace?style=plastic&logo=modrinth&label=Download%20on%20Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fmusichud)](https://modrinth.com/plugin/onemace)
 [![Download on GitHub](https://img.shields.io/github/downloads/mattwhyy/OneMace/total?style=plastic&logo=github&label=Download%20on%20GitHub)](https://github.com/mattwhyy/OneMace/releases)
 
@@ -18,7 +18,7 @@ OneMace enforces a hard limit: players can have only **one** Mace. **No** bypass
 
 ##
 Need a **server** for a nice deal or just want to **support me**? ❤️
-
+Support matt
 [![ScalaCube 50 PERCENT OFF FOR THE FIRST MONTH](https://img.shields.io/badge/ScalaCube-50%25%20Off%201st%20Month-orange?style=plastic
 )](https://scalacube.com/p/_hosting_server_minecraft/4966506)
 [![Support me on Ko-Fi](https://img.shields.io/badge/Ko%E2%8E%AFFi-Support%20Me-blue?style=plastic&logo=kofi&logoColor=pink)](https://ko-fi.com/mattwhyy)
