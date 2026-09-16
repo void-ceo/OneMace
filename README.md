@@ -19,7 +19,9 @@ OneMace enforces a hard limit: players can have only **one** Mace. **No** bypass
 ##
 Need a **server** for a nice deal or just want to **support me**? ❤️
 ## Support fork: 
-[![https://img.shields.io/badge/Boosty-Support%20Me-brightgreen?style=plastic](https://boosty.to/fallenblade)
+
+[![Boosty]([https://img.shields.io/badge/ScalaCube-50%25%20Off%201st%20Month-orange?style=plastic](https://img.shields.io/badge/Boosty-Support%20Me-brightgreen?style=plastic)
+)](boosty.to/fallenblade)
 
 Support mattwhyy
 [![ScalaCube 50 PERCENT OFF FOR THE FIRST MONTH](https://img.shields.io/badge/ScalaCube-50%25%20Off%201st%20Month-orange?style=plastic
