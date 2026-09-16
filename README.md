@@ -18,7 +18,7 @@ OneMace enforces a hard limit: players can have only **one** Mace. **No** bypass
 
 ##
 Need a **server** for a nice deal or just want to **support me**? ❤️
-Support fork: 
+## Support fork: 
 [![https://img.shields.io/badge/Boosty-Support%20Me-brightgreen?style=plastic](https://boosty.to/fallenblade)
 
 Support mattwhyy
